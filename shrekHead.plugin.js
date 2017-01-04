@@ -1,4 +1,4 @@
-//META{"name":"Shrek Love"}*//
+//META{"name":"shrek"}*//
 
 var shrek = function () {};
 
